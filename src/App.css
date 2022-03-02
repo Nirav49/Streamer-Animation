@@ -1,0 +1,9 @@
+.App {
+  padding: 40px;
+  background-color: #cccccc;
+  height: 100vh;
+
+  overflow: hidden;
+  transition: ease all .3s;
+}
+
