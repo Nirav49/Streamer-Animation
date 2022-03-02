@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Streamer-Animation/static/css/main.61940567.css",
+    "main.js": "/Streamer-Animation/static/js/main.8c6278b1.js",
+    "static/js/787.6d69227e.chunk.js": "/Streamer-Animation/static/js/787.6d69227e.chunk.js",
+    "index.html": "/Streamer-Animation/index.html",
+    "main.61940567.css.map": "/Streamer-Animation/static/css/main.61940567.css.map",
+    "main.8c6278b1.js.map": "/Streamer-Animation/static/js/main.8c6278b1.js.map",
+    "787.6d69227e.chunk.js.map": "/Streamer-Animation/static/js/787.6d69227e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61940567.css",
+    "static/js/main.8c6278b1.js"
+  ]
+}
